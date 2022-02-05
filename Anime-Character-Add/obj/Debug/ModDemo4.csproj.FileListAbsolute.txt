@@ -1,0 +1,11 @@
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\bin\Debug\ModDemo4.exe.config
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\bin\Debug\ModDemo4.exe
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\bin\Debug\ModDemo4.pdb
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\obj\Debug\ModDemo4.csproj.AssemblyReference.cache
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\obj\Debug\ModDemo4.csproj.SuggestedBindingRedirects.cache
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\obj\Debug\ModDemo4.Form1.resources
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\obj\Debug\ModDemo4.Properties.Resources.resources
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\obj\Debug\ModDemo4.csproj.GenerateResource.cache
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\obj\Debug\ModDemo4.csproj.CoreCompileInputs.cache
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\obj\Debug\ModDemo4.exe
+C:\Users\dwigh\V-S22 Files\Demos\ModDemo4\obj\Debug\ModDemo4.pdb
