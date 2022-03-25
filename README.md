@@ -1,2 +1,0 @@
-# Assignment_11.4
-     1. Create an empty mvc application . add the static files created in html5. Use the static files middleware to display static files. You may use the About Me html page created before.     2. Create an empty mvc application . Add interface: Idata containing basic CRUD , add model : Product. Add class : ProductData implementing Idata to create repository. Use dependency injection. This lab is to get familiar with dependency injections.
